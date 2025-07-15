@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @johnbrightagbons
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! I’m John Bright Agbons, a passionate and purpose-driven software development student at Brigham Young University – Idaho. I have built user-friendly applications that solve real-world problems—especially in the areas of finance, education, and community upliftment. With a foundation in JavaScript, Python, and web technologies like React, Node.js, and PostgreSQL, I enjoy turning ideas into solutions. Outside the screen, I’m also a classroom teacher and football coach, helping young people develop discipline, teamwork, and confidence. I’m currently learning full-stack development, data analysis, and applied programming while actively working on projects that reflect my values—useful, meaningful, and simple to use. I’m open to collaboration on impactful web apps, youth empowerment tools, and open-source contributions. You can reach me at brightinojohnny@gmail.com, or connect with me on LinkedIn www.linkedin.com/in/bright-john-80337a159. Let’s build something that matters.
 
-<!---
-johnbrightagbons/johnbrightagbons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The best way to learn is to build. The best way to grow is to give.
+— John Bright Agbons
